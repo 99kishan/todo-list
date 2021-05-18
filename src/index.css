@@ -1,0 +1,41 @@
+/*body{
+    background: rgb(176, 16, 216);
+}
+.head {
+    text-align: center;
+    color: rgba(240, 120, 9, 0.486);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 2.5in;
+}
+.box {
+    margin-left: 5.3in;
+}*/
+body{
+    background-image:url("C:\Users\sibhamidipati\Desktop\Learning\JS\example\src\skillsoft-sumtotal-desktops-23.jpg");
+    
+    background-position: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+    align-items: center ;
+}
+
+.button{
+    background: rgba(230, 223, 223, 0.897);
+    margin: 20px;
+}
+
+.add-button{
+    background: rgb(250, 244, 244);
+    width: 40px;
+    height: 40px;
+}
+.app-title{
+    margin-left: 50px;
+    color: rgb(211, 19, 125);
+    font-size: 30px;
+}
+.container{
+    border: 5px solid pink;
+    border-radius: 25px;
+
+}
